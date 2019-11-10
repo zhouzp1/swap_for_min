@@ -7,7 +7,7 @@
  * program is to calculate the smallest positive integer that can be obtained for any positive integer num (num<=104875, ie its binary
  * form does not exceed 20 bits), and at most swap (swap<20).
  */
-
+//zhou
 #include <stdio.h>
 
 typedef unsigned int uint;
